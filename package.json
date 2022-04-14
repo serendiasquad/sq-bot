@@ -1,0 +1,25 @@
+{
+  "name": "sq-bot",
+  "version": "0.0.1",
+  "description": "This project gives you the environment to make a Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serendiasquad/sq-bot.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "discord",
+    "serendia",
+    "squad"
+  ],
+  "author": "Serendia Squad",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/serendiasquad/sq-bot/issues"
+  },
+  "homepage": "https://github.com/serendiasquad/sq-bot#readme"
+}
