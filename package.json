@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/serendiasquad/sq-bot/issues"
   },
-  "homepage": "https://github.com/serendiasquad/sq-bot#readme"
+  "homepage": "https://github.com/serendiasquad/sq-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
 }
